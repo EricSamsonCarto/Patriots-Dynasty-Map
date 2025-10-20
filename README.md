@@ -1,5 +1,3 @@
-[![LinkedIn][linkedin-shield]][linkedin-url]
-
 <p align="center">
   <h3 align="center">Patriot's Dynasty Leaflet Application</h3>
 
