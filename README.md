@@ -3,8 +3,6 @@
 
   <p align="center">
     Leaflet Map that illustrates the New England Patriot's dynasty.<br>
-    Full project description and demo can be found on the live version of the app:<br>
-    <a href="">Live Demo</a>
   </p>
 </p>
 
