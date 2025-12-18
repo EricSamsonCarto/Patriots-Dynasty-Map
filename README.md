@@ -15,5 +15,4 @@
 
 ### Built With
 * [Leaflet](https://leafletjs.com/)
-* [JQuery](https://jquery.com)
 * [ChartJS](https://www.chartjs.org/docs/latest/)
